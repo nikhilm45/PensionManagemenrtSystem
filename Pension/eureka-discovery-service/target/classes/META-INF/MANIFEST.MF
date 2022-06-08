@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: eureka-discovery-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 2063604
+Implementation-Vendor-Id: com.cognizant
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://spring.io/projects/spring-boot/eureka-disc
+ overy-service
+Created-By: Maven Integration for Eclipse
+
